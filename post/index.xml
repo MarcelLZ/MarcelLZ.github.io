@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marcel Zanluca</title>
-    <link>http://marcelzanluca.com.br/</link>
-    <description>Recent content on Marcel Zanluca</description>
+    <title>Posts on Marcel Zanluca</title>
+    <link>http://marcelzanluca.com.br/post/</link>
+    <description>Recent content in Posts on Marcel Zanluca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Mon, 02 Oct 2017 23:05:56 -0300</lastBuildDate>
     
-	<atom:link href="http://marcelzanluca.com.br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://marcelzanluca.com.br/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

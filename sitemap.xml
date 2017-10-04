@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://marcelzanluca.com.br/de-volta-ao-jogo/</loc>
+    <loc>http://marcelzanluca.com.br/post/de-volta-ao-jogo/</loc>
     <lastmod>2017-10-02T23:05:56-03:00</lastmod>
   </url>
   
@@ -14,6 +14,12 @@
   
   <url>
     <loc>http://marcelzanluca.com.br/</loc>
+    <lastmod>2017-10-02T23:05:56-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://marcelzanluca.com.br/post/</loc>
     <lastmod>2017-10-02T23:05:56-03:00</lastmod>
     <priority>0</priority>
   </url>
