@@ -2,7 +2,7 @@ BaseUrl= "http://marcelzanluca.com.br/"
 LanguageCode= "pt-BR"
 Title= "Marcel Zanluca"
 paginate = 10
-#DisqusShortname = "YOUR_SHORT_NAME_HERE"
+DisqusShortname = "marcelzanluca"
 #Copyright = "All rights reserved - 2015"
 canonifyurls = true
 
@@ -10,7 +10,7 @@ canonifyurls = true
 theme = "casper"
 
 # DIST
-#publishDir = "../docs"
+publishDir = "public"
 
 [params]
   description = "Vivendo e aprendendo"
