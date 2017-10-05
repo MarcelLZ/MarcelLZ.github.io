@@ -10,7 +10,7 @@ canonifyurls = true
 theme = "casper"
 
 # DIST
-publishDir = "../docs"
+#publishDir = "../docs"
 
 [params]
   description = "Vivendo e aprendendo"
