@@ -19,4 +19,4 @@ Bom, se você ficou interessado, ou até mesmo quer participar, não deixe de co
 repositório [to-learn](https://goo.gl/7jjw4C) e enviar seu PR \o/ O projeto ta bem no começo mesmo,
 listamos algumas coisa que julgamos essencial, mas muito mais coisa virá, acredito eu.
 
-Qualquer coisa, deixe seu comentário aí, serpa um prazer responder :D
+Qualquer coisa, deixe seu comentário aí, será um prazer responder :D
