@@ -1,9 +1,9 @@
 BaseUrl= "https://marcelzanluca.com.br/"
 LanguageCode= "pt-BR"
 Title= "Marcel Zanluca"
-paginate = 10
+paginate = 5
 DisqusShortname = "marcelzanluca"
-Copyright = "2017"
+Copyright = "2018"
 canonifyurls = true
 
 # THEME
@@ -14,15 +14,16 @@ publishDir = "public"
 
 [params]
   description = "Vivendo e aprendendo"
-  metadescription = "Mais importante do que a chegada é a caminhada, e não há caminho sem metamorfose: ela é a ponte que torna possível a nossa travessia até os novos continentes a serem descobertos dentro de nós. (Kamila Behling)"
+  metadescription = "Mais importante do que a chegada é a caminhada, e não há caminho sem metamorfose. (Kamila Behling)"
   author = "Marcel Zanluca"
   authorlocation = "Santa Catarina, Brasil"
   authorwebsite = "https://marcelzanluca.com.br"
-  # authorbio= ""
+  authorbio= "A simple developer"
 
-  # IMAGES
+  # THEME CUSTOMIZATION
   cover = "images/cover.jpg"
   #logo = "images/logo.png"
+  customCss = []
 
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = ""
@@ -41,6 +42,3 @@ publishDir = "public"
   # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
   # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
   hjsStyle = "default"
-
-  [params.social]
-    #twitter = "your_twitter"

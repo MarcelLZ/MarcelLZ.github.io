@@ -12,9 +12,23 @@
 &nbsp;
 {{end}}
 
+{{ if .Site.Params.codepenName }}
+    <a class="bloglogo" href="https://codepen.io/{{ .Site.Params.codepenName }}" target="_blank">
+    <span class="icon-codepen" style="color:white;font-size:2em"></span>
+    </a>
+&nbsp;
+{{end}}
+
 {{ if .Site.Params.flickrName }}
     <a class="bloglogo" href="https://flickr.com/{{ .Site.Params.flickrName }}" target="_blank">
     <span class="icon-flickr" style="color:white;font-size:2em"></span>
+    </a>
+&nbsp;
+{{end}}
+
+{{ if .Site.Params.stackoverflowId }}
+    <a class="bloglogo" href="https://stackoverflow.com/users/{{ .Site.Params.stackoverflowId }}" target="_blank">
+        <img src="images/stackoverflow.svg" height="40" width="40">
     </a>
 &nbsp;
 {{end}}
@@ -57,6 +71,13 @@
 {{ if .Site.Params.googlePlusName }}
     <a class="bloglogo" href="https://google.com/+{{ .Site.Params.googlePlusName }}" target="_blank">
         <span class="icon-google-plus" style="color:white;font-size:2em"></span>
+    </a>
+&nbsp;
+{{end}}
+
+{{ if .Site.Params.keybaseName }}
+    <a class="bloglogo" href="https://keybase.io/{{ .Site.Params.keybaseName }}" target="_blank">
+        <img src="images/keybase.svg" height="40" width="40">
     </a>
 &nbsp;
 {{end}}
