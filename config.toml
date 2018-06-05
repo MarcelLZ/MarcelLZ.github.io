@@ -29,11 +29,13 @@ publishDir = "public"
   #RSSLink = ""
 
   # SOCIAL MEDIA
-  githubName = "MarcelLZ"
   linkedinName = "marcelzanluca"
-  # twitterName = ""
-  # facebookName = ""
-  # googleAnalyticsUserID = "UA-79101-12"
+  twitterName = "marcelzanluca"
+  githubName = "MarcelLZ"
+  googleAnalyticsUserID = "UA-62214014-1"
+
+  [params.social]
+    # facebookName = ""
 
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
