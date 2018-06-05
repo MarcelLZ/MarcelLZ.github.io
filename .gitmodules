@@ -1,0 +1,6 @@
+[submodule "themes/themes/casper"]
+	path = themes/themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = https://github.com/themefisher/airspace-hugo.git
