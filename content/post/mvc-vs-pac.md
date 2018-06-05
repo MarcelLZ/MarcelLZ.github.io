@@ -2,7 +2,6 @@
 title: "MVC vs PAC"
 date: 2018-03-27T12:17:36-03:00
 image: /images/posts/MVC-vs-PAC.png
-draft: false
 ---
 
 Fala galerinha do bem! Hoje é o meu primeiro dia de trabalho na [Taller](http://taller.net.br), essa empresa 100% remota que já conquistou meu coração antes mesmo de eu começar a trabalhar aqui.
