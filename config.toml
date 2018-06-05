@@ -13,7 +13,7 @@ theme = "casper"
 publishDir = "public"
 
 [params]
-  description = "Vivendo e aprendendo"
+  description = "In a quest for knowledge"
   metadescription = "Mais importante do que a chegada é a caminhada, e não há caminho sem metamorfose. (Kamila Behling)"
   author = "Marcel Zanluca"
   authorlocation = "Santa Catarina, Brasil"
