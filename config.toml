@@ -21,7 +21,7 @@ publishDir = "public"
   authorbio= "A simple developer"
 
   # THEME CUSTOMIZATION
-  cover = "images/cover.jpg"
+  cover = "images/cover.jpeg"
   #logo = "images/logo.png"
   customCss = []
 
